@@ -100,6 +100,8 @@ A big thanks to [@dulakm](https://github.com/dulakm) for such great contribution
 
 Install Ruby.
 
+[![Build Status](https://secure.travis-ci.org/frosas/spotify-to-mp3.png)](http://travis-ci.org/frosas/spotify-to-mp3)
+
 ```bash
 $ gem install bundler
 $ bundle
